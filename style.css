@@ -30,11 +30,11 @@ h1 {
   outline-style: solid;
   outline-width: .0625rem;
   outline-color: #1c212c;
-  height: 60dvh;
+  height: 60vh;
   width: 50%;
   margin: 50px 0;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   flex-direction: column;
   overflow-y: auto;
 }
